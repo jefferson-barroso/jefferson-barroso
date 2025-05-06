@@ -27,7 +27,7 @@
 <code><img height="32" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
 
-## 💻 IDEs/Editors
+## 💻 IDEs/Editors/Ferramentas
 
 <code><img height="32" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VSCode"/></code>
 <code><img height="32" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse"/></code>
