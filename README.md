@@ -5,8 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Engenharia de Software e formado em Análise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como atualmente como desenvolvedor fullstack.
-- 🌱 Aprendendo mais sobre tecnologias de frontend, backend e banco de dados.
-- 🔭 Buscando impactar o mercado de tecnologia sendo um ótimo profissinal.
+  
 ---
 
 ## 🚀 Minhas Skills
