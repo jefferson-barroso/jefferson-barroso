@@ -12,7 +12,7 @@ Acredito que a melhor forma de evoluir é manter a curiosidade ativa e nunca par
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 
-🎓 Graduando em Engenharia de Software
+🎓 Graduado em Engenharia de Software
 
 💼 Atuação profissional como Desenvolvedor Full Stack
 
