@@ -1,6 +1,6 @@
 # ☕ Olá, eu sou Jefferson Barroso!
 
-### Full Stack Developer | Software Engineering Student | Lifelong Learner
+### Full Stack Developer | Software Engineering | Lifelong Learner
 
 ---
 
